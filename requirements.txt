@@ -1,4 +1,2 @@
 Django==5.1.2
 djangorestframework
-whitenoise  
-gunicorn 
